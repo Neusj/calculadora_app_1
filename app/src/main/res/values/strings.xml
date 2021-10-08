@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calculadora_debug</string>
+    <string name="resultado">Resultado</string>
+    <string name="num_1">Ingrese el 1er número</string>
+    <string name="num_2">Ingrese el 2do número</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multilpicación</string>
+    <string name="division">División</string>
+</resources>
