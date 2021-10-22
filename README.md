@@ -2,4 +2,4 @@
 
 Primera práctica unacalculadora con las cuatro opercaciones y validaciones básicas.
 
-También disponible en adaptación a Kotli en https://github.com/Neusj/calculadoraJavaFromKT
+También disponible en adaptación a Kotlin en https://github.com/Neusj/calculadoraJavaFromKT
